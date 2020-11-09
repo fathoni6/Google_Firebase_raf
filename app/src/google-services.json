@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "551160639266",
+    "firebase_url": "https://fir-raf.firebaseio.com",
+    "project_id": "fir-raf",
+    "storage_bucket": "fir-raf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551160639266:android:c64bbb33ea899be02cbf7b",
+        "android_client_info": {
+          "package_name": "com.rafcoding.google_firebase_raf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551160639266-c7pb25cthve5uqtifvs76tsafpu625ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rafcoding.google_firebase_raf",
+            "certificate_hash": "73df9b6a01c993c4c8519e0a9cb0dc5cdf74e759"
+          }
+        },
+        {
+          "client_id": "551160639266-ugeaqibs1oe214sptm73okj9vv27nsrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8oZk5LxhUWcvG--JZMFURm-L-cpNOgPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551160639266-ugeaqibs1oe214sptm73okj9vv27nsrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
