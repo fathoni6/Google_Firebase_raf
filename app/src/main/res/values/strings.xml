@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Google_Firebase_raf</string>
+
+    <string name="request_client_id">505298731823-ikh5jsgvememoa7315h4hufc5bvdimng.apps.googleusercontent.com</string>
 </resources>
